@@ -30,7 +30,7 @@ I'm Sara Nageeb a Frontend Web Developer (React js) and Content Creator on [Yout
 
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email:  webu.tutorials@gmail.com:
 
  
 
