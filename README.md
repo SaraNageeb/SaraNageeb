@@ -25,7 +25,7 @@ I'm Sara Nageeb a Frontend Web Developer (React js) and Content Creator on [Yout
 #### Business
 - :paperclip: [My Resume/CV](https://github.com/SaraNageeb/SaraNageeb/blob/main/cv.pdf)
 - :email:  webu.tutorials@gmail.com:
-- [![Linkedin Badge](https://img.shields.io/badge/-SaraNageeb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/sara-mohamed-nageeb)
+- [![Linkedin Badge](https://img.shields.io/badge/-SaraNageeb-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-mohamed-nageeb)
 
  
 
