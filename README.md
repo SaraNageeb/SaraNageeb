@@ -7,11 +7,9 @@ I'm Sara Nageeb a Frontend Web Developer (React js) and Content Creator on [Yout
 [![Twitter Badge](https://img.shields.io/badge/-@WebUTutorials-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WebUTutorials)](https://twitter.com/WebUTutorials) [![Mail Badge](https://img.shields.io/badge/-WebUTutorials-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCt--L757h-nHndxQbEbVZzA) [![Linkedin Badge](https://img.shields.io/badge/-WebUTutorials-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/WebUTutorials/) [![Mail Badge](https://img.shields.io/badge/-@WebUTutorials-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/WebUTutorials)  
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+ - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me webu.tutorials@gmail.com: .
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I love handmade crafts  and go to the GYM very often.
 
 #### My Skills
